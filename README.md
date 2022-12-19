@@ -2,6 +2,7 @@
 
 
 Car Driver Program Function(Part 1/2):
+
 This program can calculate the amount of fuel used and the actual distance driven in the drive() method. 
 The algorithm implemented use's multiple formulas (as a piecewise function) that gives proportionately poorer mileage when the Car is driven faster or slower than its optimal speed. 
 
