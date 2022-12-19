@@ -1,16 +1,12 @@
 # Car_Driver_Garage_Project
 
 
-Car Driver Program Function(Part 1/2)
-
+Car Driver Program Function(Part 1/2):
 This program can calculate the amount of fuel used and the actual distance driven in the drive() method. 
-
 The algorithm implemented use's multiple formulas (as a piecewise function) that gives proportionately poorer mileage when the Car is driven faster or slower than its optimal speed. 
 
 
-
 Garage Driver Function (Part 2/2:
-
 This program is used to create a Garage class to store Cars. The Garage object is an instantiation of a Garage class that contains “parking”, an array of the Car class.
 
 Detail of Program Functions:
